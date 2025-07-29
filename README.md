@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Bruno Puodziunas</h1>
+<h3 align="center">Web Developer | Computer Science Student @ UBA</h3>
 
-<!--
-**Brundex/brundex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,java,django,react,tailwind,nodejs,sqlite,mongodb,git,docker"/>
+  </a>
+</p>
+I'm a Full Stack developer specialized in Django and React. I'm currently majoring in Computer Science at University of Buenos Aires, and working on some automation projects in my spare time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯**Interests:**
+
+- Web Development
+- Data Analysis
+- AI and Automation
+- Using technology to solve real-life problems
+
+### 💭**Non-tech Interests:**
+
+- Piano 🎹 - Been teaching myself since I was 5
+- Boca Juniors 🔵🟡🔵
+- Chess♟
