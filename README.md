@@ -16,9 +16,3 @@ I'm a Full Stack developer specialized in Django and React. I'm currently majori
 - Data Analysis
 - AI and Automation
 - Using technology to solve real-life problems
-
-### 💭**Non-tech Interests:**
-
-- Piano 🎹 - Been teaching myself since I was 5
-- Boca Juniors 🔵🟡🔵
-- Chess♟
