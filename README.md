@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python, csharp,js,java,django,react,tailwind,nodejs,sqlite,mongodb,git,docker"/>
+    <img src="https://skillicons.dev/icons?i=python,cs,js,java,django,dotnet,nodejs,sqlite,mongodb,git,docker"/>
   </a>
 </p>
 Software Developer currently majoring in Computer Science at Universidad de Buenos Aires, and always learning new tools in my spare time.
