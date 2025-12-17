@@ -1,5 +1,5 @@
 <h1 align="center">Bruno Puodziunas</h1>
-<h3 align="center">Software Developer | Computer Science Student @ UBA</h3>
+<h3 align="center">Software Developer | Data Analyst |Computer Science Student @ UBA</h3>
 
 ---
 
